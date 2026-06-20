@@ -56,10 +56,10 @@ Interstitial-Lung-Disease-Clinical-Analysis-Python
 │   └── ILD_Data_2022.xlsx
 │
 ├── Cleaned_Data
-│   └── Clinical_Analysis_of_ILD_Cleaned_Dataset.csv
+│   └── Cleaned_ILD_Data.csv
 │
 ├── PowerBI
-│   └── Clinical_Analysis_of_ILD_Cleaned_Data.pbix
+│   └── ILD_Dashboard.pbix
 │
 ├── Screenshots
 │   ├── Patient_Characteristics_&_Diagnosis_Overview.png
