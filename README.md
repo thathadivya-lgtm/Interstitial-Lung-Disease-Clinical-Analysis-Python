@@ -84,29 +84,14 @@ Interstitial-Lung-Disease-Clinical-Analysis-Python
 ---
 
 ## 📈 Dashboards Developed
-
 ### 1. Overview Dashboard
-- Total Patients
-- Average Age
-- Average BMI
-- Diagnostic Category Distribution
-- Spirometric Pattern Distribution
-- Smoking Status Distribution
-- Gender Distribution
+![Overview Dashboard](Screenshots/Patient_Characteristics_&_Diagnosis_Overview.png)
 
 ### 2. Demographic & Risk Factor Analysis Dashboard
-- Age Category vs Spirometric Pattern
-- Gender vs Spirometric Pattern
-- Smoking Status vs Spirometric Pattern
-- BMI Category vs Spirometric Pattern
+![Demographic Dashboard](Screenshots/Demographic_&_Risk_Factor_Analysis.png)
 
 ### 3. Clinical & Pulmonary Analysis Dashboard
-- FVC Distribution Across Diagnostic Categories
-- FEV1 Distribution Across Diagnostic Categories
-- Sarcoidosis Stage Distribution
-- Sarcoidosis Stage vs FVC (%)
-- Clinical Correlation Matrix
-- FVC vs FEV1 Analysis
+![Clinical Dashboard](Screenshots/Clinical_Findings_Lung_Function_Analysis.png)
 
 ---
 
